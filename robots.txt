@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://molka-alouini.netlify.app/sitemap.xml
+Sitemap: https://molka-alouini.vercel.app/sitemap.xml
